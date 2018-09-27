@@ -1,0 +1,3 @@
+name: pulumi-aws-vpn-gcp
+description: AWS-to-GCP VPN Connection
+runtime: nodejs
